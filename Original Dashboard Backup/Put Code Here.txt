@@ -1,0 +1,2 @@
+ Copy the new Dashboard.exe file over to
+the C:\Program Files\FRC Dashboard directory
